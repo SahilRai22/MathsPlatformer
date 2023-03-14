@@ -63,9 +63,9 @@ The following section entails requirements that are MUST and SHOULD. Where MUST 
 - MUST have completion page (including main menu, next level & score)
 
 ## Game-play snapshots
-![MainMenu](/uploads/1da4f09704bde6ea5351aa9a855c432c/MainMenu.png)
-![Gameplay-1](/uploads/5af80add3992970c2fff0105efb56b33/Gameplay-1.png)
-![Gameplay_-2](/uploads/3d6394042622f6d5a958abb2e2bf224c/Gameplay_-2.png) 
+<img width="894" alt="Screenshot 2023-03-14 at 16 10 14" src="https://user-images.githubusercontent.com/4998533/225067863-b0a6a66c-ef17-4e2c-910f-360a3fac5752.png">
+<img width="896" alt="Screenshot 2023-03-14 at 16 10 36" src="https://user-images.githubusercontent.com/4998533/225067927-c2f20771-12fd-4d11-8e56-381ef6457655.png">
+<img width="898" alt="Screenshot 2023-03-14 at 16 10 48" src="https://user-images.githubusercontent.com/4998533/225067983-2c396b0d-a668-4b61-bc43-77b6b06e77cf.png">
 
 ## Instructions 
 Choose a difficulty level
