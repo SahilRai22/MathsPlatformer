@@ -1,4 +1,4 @@
-# COMP4024_CW
+# Group Project
 
 ## Project
 ### Math Olympiad
@@ -149,6 +149,3 @@ Documentation: Elise, Shan Li, Lainya
 ✅ Testing \
 ✅ Documentation\
 ✅ Completed 
-
-### Reference work
-![TestMaps - Shan Li](https://projects.cs.nott.ac.uk/-/ide/project/efysr3/comp4024_cw/edit/picture/-/WechatIMG192.png)
